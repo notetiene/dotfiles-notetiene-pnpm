@@ -1,0 +1,9 @@
+^README\.md
+^docs
+^LICENSE
+/\.git
+/\.gitmodules
+/\.gitignore
+\.gitkeep
+\.bak
+.*\#
